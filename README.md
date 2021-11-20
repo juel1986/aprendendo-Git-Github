@@ -1,2 +1,2 @@
 # aprendendo-Git-Github
-Aprendendo comandos Básicos de Git/Github
+Aprendendo mais comandos do Git/Github
